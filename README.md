@@ -8,5 +8,8 @@ This sample project is created using Spring Boot + H2 DB. This project will perf
 Deliverables
 - Sample Postman collection to access all the services https://www.getpostman.com/collections/13cfa774a1e856dd70a8
 - Once the application is started, you can view the OpenApi Spec from http://localhost:8080/swagger-ui.html
+  ![image](https://user-images.githubusercontent.com/81948411/125158256-d5904f00-e180-11eb-9381-6255f3ae1b1a.png)
 - Once the application is started, you can access the H2 DB from http://localhost:8080/h2-ui/
-- Docker Pull command docker pull gauravbawa061090/book-api:book-store-api
+  ![image](https://user-images.githubusercontent.com/81948411/125158229-a11c9300-e180-11eb-9c8e-c9461a53c911.png)
+
+- Docker Pull command - docker pull gauravbawa061090/book-api:book-store-api
