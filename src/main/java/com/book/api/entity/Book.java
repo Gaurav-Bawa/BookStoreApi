@@ -39,6 +39,7 @@ public class Book {
     @NotEmpty(message = "type is mandatory")
     private String type;
 
+    @NotNull(message = "price is mandatory")
     @Digits(message = "Price must be a digit", fraction = 6, integer = 6)
     private BigDecimal price;
 
