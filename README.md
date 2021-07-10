@@ -13,3 +13,4 @@ Deliverables
   ![image](https://user-images.githubusercontent.com/81948411/125158229-a11c9300-e180-11eb-9c8e-c9461a53c911.png)
 
 - Docker Pull command - docker pull gauravbawa061090/book-api:book-store-api
+- Docker run command - docker run -p8080:8080 versionid
